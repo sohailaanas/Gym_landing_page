@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gym_landing_page%20/static/css/main.0db069e5.css",
+    "main.js": "/Gym_landing_page%20/static/js/main.8dd36895.js",
+    "static/media/offer.jpeg": "/Gym_landing_page%20/static/media/offer.b9aad7d77e6c5724a010.jpeg",
+    "static/media/about.webp": "/Gym_landing_page%20/static/media/about.67eb20ea0a60c73edc8b.webp",
+    "static/media/banner.webp": "/Gym_landing_page%20/static/media/banner.e5c8747dc4fbb192be0e.webp",
+    "index.html": "/Gym_landing_page%20/index.html",
+    "main.0db069e5.css.map": "/Gym_landing_page%20/static/css/main.0db069e5.css.map",
+    "main.8dd36895.js.map": "/Gym_landing_page%20/static/js/main.8dd36895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db069e5.css",
+    "static/js/main.8dd36895.js"
+  ]
+}
